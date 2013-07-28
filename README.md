@@ -1,21 +1,14 @@
-Pretty Local 
-=================================
 ### I got tired of looking at the browser default file tree
 
-Add some pretty to your localhost
 It's ugly so I built Pretty Local cause I like looking at pretty things.
 
-Built on the Twitter Bootstrap
 * Built on the [Twitter Bootstrap] [1]
 
 * Inspired by [Coda Emulated in Webkit by Jay Robison] [2]
 
-License
--------
 [1]: http://getbootstrap.com
 [2]: http://jayrobinson.org/2009/11/13/coda-site-view-emulated-in-webkit-html5-css3-jquery
 
-- WTFPL: <http://sam.zoy.org/wtfpl/>Be sure to replace the background images with whatever looks pretty and makes you happy
 Be sure to replace the background images with whatever looks pretty and makes you happy
 
 ### License
