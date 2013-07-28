@@ -16,6 +16,7 @@ License
 [2]: http://jayrobinson.org/2009/11/13/coda-site-view-emulated-in-webkit-html5-css3-jquery
 
 - WTFPL: <http://sam.zoy.org/wtfpl/>Be sure to replace the background images with whatever looks pretty and makes you happy
+Be sure to replace the background images with whatever looks pretty and makes you happy
 
 ### License
 * [WTFPL] [4]
